@@ -1,6 +1,6 @@
 # screen_test_suite
 
-Utility to check monitor matrix. Similar to **screentest**
+Utility to check monitor matrix. Similar to [screentest](https://packages.debian.org/sid/screentest)
 
 ###### Additional Packages:
 ```
@@ -14,7 +14,7 @@ username@hostname:~$ python3 test_suite.py
 
 ###### Info:
 ```
-Looped colors: red, green, blur, white, black
+Looped colors pattern: red, green, blur, white, black
 Left click - test touch or mouse button (magenta color)
 Escape - exit
 ```
