@@ -9,7 +9,7 @@ sudo apt install python-tk python3-tk tk-dev
 
 ###### Usage:
 ```
-username@hostname:~$ python3 test_suite.py
+username@hostname:~$ python3 screen_test_suite.py
 ```
 
 ###### Info:
