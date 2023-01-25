@@ -1,6 +1,6 @@
 # screen_test_suite
 
-Utility to check monitor matrix. Similar to **screentest**
+Utility to check monitor matrix. Similar to [screentest](https://packages.debian.org/sid/screentest)
 
 ###### Additional Packages:
 ```
