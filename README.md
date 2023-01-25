@@ -1,8 +1,8 @@
 # test_suite
 
-Utility to test the quality of screens. Similar to screentest
+Utility to check monitor matrix. Similar to *screentest*
 
-###### Requirements:
+###### Additional Packages:
 ```
 sudo apt install python-tk python3-tk tk-dev
 ```
@@ -14,6 +14,7 @@ username@hostname:~$ python3 test_suite.py
 
 ###### Info:
 ```
-Left click - test touch or mouse button
+Looped colors: red, green, blur, white, black
+Left click - test touch or mouse button (magenta color)
 Escape - exit
 ```
