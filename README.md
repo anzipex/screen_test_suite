@@ -1,6 +1,6 @@
 # screen_test_suite
 
-LCD screen testing utility. Similar to [screentest](https://packages.debian.org/sid/screentest)
+LCD screen testing utility. Similar to [screentest](https://manpages.debian.org/buster/screentest/screentest.1.en.html)
 
 ###### Additional Packages:
 ```
